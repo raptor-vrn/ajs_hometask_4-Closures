@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/psggitb2lh7jd7vi?svg=true)](https://ci.appveyor.com/project/raptor-vrn/ajs-hometask-4-closures)
