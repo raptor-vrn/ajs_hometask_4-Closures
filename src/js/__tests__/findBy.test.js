@@ -1,4 +1,4 @@
-import findBy from '../app.js';
+import {findBy} from '../findBy.js';
 
 test('find object', () => {
   const array = [

@@ -1,8 +1,4 @@
-export default function findBy(key, value) {
-  return function (e) {
-    return e[key] === value;
-  };
-}
+export const findBy = (key, value) => (e) => e[key] === value;
 
 const finder = findBy('name', 'урон');
 
